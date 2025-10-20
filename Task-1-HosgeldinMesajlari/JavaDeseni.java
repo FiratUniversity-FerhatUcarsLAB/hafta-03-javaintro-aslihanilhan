@@ -1,5 +1,3 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
 
  public class JavaDeseni {
     public static void main(String[] args) {
@@ -9,3 +7,4 @@
         System.out.println("   J J A A V A A");
     }
 }
+
