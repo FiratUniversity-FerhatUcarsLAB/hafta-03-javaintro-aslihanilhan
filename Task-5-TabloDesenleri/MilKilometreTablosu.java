@@ -1,4 +1,4 @@
-public class AsciiArt {
+public class MilikilometreTablosu {
     public static void main(String[] args) {
   
   
@@ -29,3 +29,4 @@ public class AsciiArt {
       }
 
   }
+  
